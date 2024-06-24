@@ -22,8 +22,8 @@ I am a DevOps Engineer with a passion for automation, cloud computing, and conti
 
 ## 📫 How to reach me
 - Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername/)
-- Twitter: [Your Twitter](https://twitter.com/yourusername)
+- LinkedIn: [Aashish Jangra](https://www.linkedin.com/in/vtech1995/)
+- Twitter: [Aashish Jangra](https://twitter.com/vtech1995)
 
 ## 📝 Blog
 Check out my blog where I write about DevOps, cloud computing, and more: [Your Blog](https://yourblog.com)
@@ -31,5 +31,5 @@ Check out my blog where I write about DevOps, cloud computing, and more: [Your B
 ## ⚡ Fun fact
 Did you know? You can also include fun facts about yourself or anything interesting here.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtech1995&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vtech1995&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
