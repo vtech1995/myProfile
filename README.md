@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aashish Jangra 👋
 
-![Profile views](https://gpvc.arturio.dev/your_username)
+![Profile views](https://gpvc.arturio.dev/vtech1995)
 
 I am a DevOps Engineer with a passion for automation, cloud computing, and continuous integration/continuous deployment (CI/CD). I have experience working with various tools and technologies to streamline development processes and ensure smooth operations.
 
