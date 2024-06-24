@@ -19,9 +19,9 @@ I am a DevOps Engineer with a passion for automation, cloud computing, and conti
 ![BigPanda](https://img.shields.io/badge/-BigPanda-101010?style=flat-square&logo=bigpanda&logoColor=white)
 
 ## 🛠️ Projects
-- **[Liberty Mutual](#)**: Managing AWS cloud platform features such as EC2, EBS, ELB, Security Groups, VPC, IAM, Autoscaling groups, S3, SSM, and Lambda. Proficient in cross-account server migration, server patching, and snapshot backup and restore.
-- **[Electrolux](#)**: Managing cloud infrastructure for day-to-day operations with a focus on AWS, performing patch and vulnerability management, and automating the reporting and provision process with Bash scripts.
-- **[Schnitzel/GEA](#)**: Managing and optimizing hybrid infrastructure for multi-tenant HanaDB environment on Azure, automating tasks with Ansible playbooks, and facilitating seamless server provisioning using Azure DevOps and Terraform.
+- **[Capgemini](#)**: Managing AWS cloud platform features such as EC2, EBS, ELB, Security Groups, VPC, IAM, Autoscaling groups, S3, SSM, and Lambda. Proficient in cross-account server migration, server patching, and snapshot backup and restore.
+- **[HCL](#)**: Managing cloud infrastructure for day-to-day operations with a focus on AWS, performing patch and vulnerability management, and automating the reporting and provision process with Bash scripts.
+- **[Accenture](#)**: Managing and optimizing hybrid infrastructure for multi-tenant HanaDB environment on Azure, automating tasks with Ansible playbooks, and facilitating seamless server provisioning using Azure DevOps and Terraform.
 
 ## 📫 How to reach me
 - Email: [maashishjangra@gmail.com](mailto:maashishjangra@gmail.com)
